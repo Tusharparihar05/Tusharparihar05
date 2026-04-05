@@ -39,16 +39,6 @@
 
 ---
 
-## 🗺️ My Learning Roadmap
-```mermaid
-graph LR
-    A[✅ C / C++] --> B[✅ Java]
-    B --> C[✅ DSA Basics]
-    C --> D[🔄 MERN Stack]
-    D --> E[🔄 Blockchain / Solidity]
-    E --> F[⏳ System Design]
-    F --> G[⏳ Cloud & DevOps]
-```
 
 ---
 
