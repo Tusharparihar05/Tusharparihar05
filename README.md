@@ -104,12 +104,12 @@
 
 | Difficulty | Solved | Total |
 |---|---|---|
-| 🟢 Easy | 43 | 935 |
-| 🟡 Medium | 50 | 2036 |
-| 🔴 Hard | 12 | 921 |
-| **Total** | **105** | **3892** |
+| 🟢 Easy | 53 | 940 |
+| 🟡 Medium | 64 | 2048 |
+| 🔴 Hard | 17 | 927 |
+| **Total** | **134** | **3915** |
 
-> 🔥 **50 Days Badge 2026** earned &nbsp;|&nbsp; 📅 **DCC March 2026** completed &nbsp;|&nbsp; ⚡ Max Streak: **51 days**
+> 🔥 **50 Days Badge 2026** earned &nbsp;|&nbsp; 📅 **DCC March 2026** completed &nbsp;|&nbsp; 📅 **DCC April 2026** completed &nbsp;|&nbsp; ⚡ Max Streak: **76 days**
 
 </div>
 
