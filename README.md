@@ -34,7 +34,7 @@
 | Red Hat System Administration I (RH124) | Red Hat Academy | Apr 2025 |
 | 🔥 LeetCode 50 Days Badge 2026 | LeetCode | 2026 |
 | 📅 Daily Coding Challenge — March 2026 | LeetCode | Mar 2026 |
-
+| 📅 Daily Coding Challenge — April 2026 | LeetCode | Apr 2026 |
 </div>
 
 ---
