@@ -36,7 +36,7 @@
 | 🔥 LeetCode 100 Days Badge 2026 | LeetCode | 2026 |
 | 📅 Daily Coding Challenge — March 2026 | LeetCode | Mar 2026 |
 | 📅 Daily Coding Challenge — April 2026 | LeetCode | Apr 2026 |
-| 📅 Daily Coding Challenge — April 2026 | LeetCode | May 2026 |
+| 📅 Daily Coding Challenge — May 2026 | LeetCode | May 2026 |
 </div>
 
 ---
